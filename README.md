@@ -4,3 +4,6 @@ git clone https://github.com/your-username/project-name.git
 cd project-name
 npm install
 npm start
+git checkout -b feature/your-feature-name
+git commit -m "Add: [Feature description]"
+git push origin feature/your-feature-name
